@@ -1,0 +1,53 @@
+:root {
+    --primary-color: #3F3D56;
+    --secondary-color: #6C63FF;
+    --tertiary-color: #FF6584;
+    --light-gray:#f3f7f5;
+    --dark-gray:#B3B3B3;
+    --black:#000;
+    --white:#fff;
+}
+
+
+.advertisement__box__plans__card {
+    width: 23rem;
+    height: 65vh;
+    background-color: var(--white);
+    padding: 1rem;
+    margin: 2rem auto;
+    border-radius: 1rem;
+    transition: all .2s;
+}
+
+
+.advertisement__box__plans__card:hover {
+    transform: scale(1.05);
+}
+
+.advertisement__box__plans__card h3 {
+    margin: 2rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--tertiary-color);
+}
+
+.advertisement__box__plans__card p {
+    margin-bottom: 3rem;
+}
+
+.advertisement__box__plans__card span {
+    font-size: 5rem;
+    margin: 2rem;
+    color: var(--primary-color);
+}
+
+.advertisement__box__plans__card a {
+    border-radius: 1.5rem;
+    border: .1rem solid var(--primary-color);
+    background-color: var(--primary-color);
+    padding: .8rem 1.8rem;
+    text-decoration: none;
+    color: var(--white);
+    font-size: 1rem;
+    cursor: pointer;
+}

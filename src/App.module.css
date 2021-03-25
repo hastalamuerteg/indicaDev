@@ -1,0 +1,17 @@
+:root {
+    --primary-color: #3F3D56;
+    --secondary-color: #6C63FF;
+    --tertiary-color: #FF6584;
+    --light-gray:#f3f7f5;
+    --dark-gray:#B3B3B3;
+    --black:#000;
+    --white:#fff;
+}
+
+
+.grid__box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2.5rem;
+    align-items: center;
+}

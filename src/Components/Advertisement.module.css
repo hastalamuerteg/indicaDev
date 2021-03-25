@@ -1,0 +1,57 @@
+:root {
+    --primary-color: #3F3D56;
+    --secondary-color: #6C63FF;
+    --tertiary-color: #FF6584;
+    --light-gray:#f3f7f5;
+    --dark-gray:#B3B3B3;
+    --black:#000;
+    --white:#fff;
+}
+
+.advertisement__box {
+    background-color: var(--primary-color);
+    margin-top: 5rem;
+    box-shadow: 10px 5px 10px rgba(0,0,0,0.2);
+}
+
+.advertisement__box__message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.advertisement__box__message h3 {
+    color: var(--secondary-color);
+    font-weight: 900;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+.advertisement__box__message a {
+    color: var(--light-gray);
+    margin: 1rem;
+    text-decoration: none;
+    transition: .2s;
+
+}
+
+.advertisement__box__message a:hover {
+    color: var(--tertiary-color);
+
+}
+
+
+
+.advertisement__box__plans {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.5rem;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
+
