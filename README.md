@@ -1,3 +1,14 @@
+# indicaDev
+
+This is a fictional online platform for developers to share their projects with others, ask for help with the community
+and also share their profiles in order to get job opportunities.
+
+If you're struggling with a project or you are a complete beginner, come to indicaDev and find your place. XD
+
+Thanks everyone!
+
+------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
