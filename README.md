@@ -1,13 +1,59 @@
-# indicaDev
+# Indica Dev 💻 <-> 💻
 
-This is a fictional online platform for developers to share their projects with others, ask for help with the community
-and also share their profiles in order to get job opportunities.
+## Project 🚀🚀
 
-If you're struggling with a project or you are a complete beginner, come to indicaDev and find your place. XD
+This is a fictional online platform for software developers to share their projects with others, ask for help with the community and also share their profiles in order to get job opportunities.
 
-Thanks everyone!
+## Technologies 🧰🧰
 
-------------------------------------
+This project was created with
+
+- ReactJs
+- CSS3
+
+## Concepts 💭💭
+
+This project make use of concepts such as:
+
+- Reusable Class Components
+- CSS Modules
+- PROPS
+- Children
+
+## Layout 💅🏼💅🏼
+
+### Header
+
+![alt](/screenshots/header.png)
+
+### Main
+
+![alt](/screenshots/main.png)
+![alt](/screenshots/main2.png)
+![alt](/screenshots/main3.png)
+
+### Features
+
+![alt](/screenshots/features.png)
+![alt](/screenshots/features2.png)
+
+### Prices
+
+![alt](/screenshots/prices.png)
+
+### Footer
+
+![alt](/screenshots/footer.png)
+
+If you're struggling with a project or you are a complete beginner, come to indicaDev and find your place. 😁😁
+
+Thank you!
+
+###### This project may still suffer changes.
+
+###### Developed by Gabriel Vicente
+
+---
 
 # Getting Started with Create React App
 
